@@ -1,0 +1,53 @@
+#l1g {
+    background-color: #2ecc70;
+    width: 80%;
+    height: 30px;
+}
+#l2g {
+    background-color: #2980b9;
+    width: 20%;
+    height: 30px;
+}
+#l3g {
+    background-color: #e74c3c;
+    width: 33%;
+    height: 50px;
+}
+#l4g {
+    background-color: #e57e23;
+    width: 33%;
+    height: 50px;
+}
+#l5g {
+    background-color: #95a5a6;
+    width: 34%;
+    height: 50px;
+}
+.l3g {
+    background-color: #e74c3c;
+    width: 33%;
+    height: 50px;
+}
+#l7g {
+    background-color: #f39c12;
+    width: 22%;
+    height: 50px;
+}
+#l8g {
+    background-color: #17a085;
+    width: 22%;
+    height: 50px;
+}
+#l9g {
+    background-color: #d35400;
+    width: 23%;
+    height: 50px;
+}
+#l10g {
+    background-color: #2c3e50;
+    width: 100%;
+    height: 100px;
+}
+div {
+    float: left;
+}
